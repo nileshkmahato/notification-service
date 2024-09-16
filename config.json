@@ -2,7 +2,7 @@
     "SMTP_SERVER": "smtp.gmail.com",
     "SMTP_PORT": 465,
     "SENDER_EMAIL": "donlorose6@gmail.com",
-    "CC_EMAIL": "bcalearn@gmail.com",
+    "CC_EMAIL": "",
     "SMTP_USERNAME": "donlorose6@gmail.com",
     "SMTP_PASSWORD": "dwgb yvxq ifuc gnhi"
 }
